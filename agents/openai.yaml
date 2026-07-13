@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beautify GitHub README"
+  short_description: "按仓库主题设计清晰、有辨识度的 GitHub README"
+  default_prompt: "Use $beautify-github-readme to redesign this repository homepage around its real theme and content."
